@@ -14,7 +14,7 @@ table, th, td {
 }
 
 th {
-  background: #4a90e2;
+  background: #B636E3;
   color: white;
 }
 body {
@@ -22,7 +22,7 @@ body {
 }
 
 .header, .footer {
-    background: #D0D0D0;
+    background: #B707D4;
     padding: 20px;
     text-align: center;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 .content {
-    background: #A3C7F2;
+    background: #E7A3F2;
     flex: 1;
     padding: 15px;
 }
@@ -51,10 +51,11 @@ body {
     margin-bottom: 15px;
     text-align: center;
     border: 1px solid #888;
+    border-radius:10px 10px 10px 10px
 }
 
 .sidebar a {
-    background: #4a90e2;
+    background: #B636E3;
     padding: 10px;
     margin-bottom: 15px;
     text-align: center;
@@ -62,4 +63,5 @@ body {
     display: block;
     text-decoration: none;
     color: #FFFFFF;
+    border-radius:10px 10px 10px 10px
 }
